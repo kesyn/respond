@@ -5,10 +5,10 @@
 	/*********************************/
 
 	// DB connection parameters
-	define('DB_HOST', 'localhost');
-	define('DB_NAME', 'respond');
-	define('DB_USER', 'dbuser');
-	define('DB_PASSWORD', 'dbpass');
+	define('DB_HOST', 'ap-cdbr-azure-east-c.cloudapp.net');
+	define('DB_NAME', 'sqwkAerUd22GXI3W');
+	define('DB_USER', 'be7449adc4070d');
+	define('DB_PASSWORD', 'f8adb2f1');
 	
 	// If not set, we figure it out baded on the HTTP request.
     define('APP_URL', detectedAppURL());
